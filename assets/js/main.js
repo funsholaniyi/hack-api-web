@@ -69,8 +69,8 @@ $(document).ready(function() {
      SLIDER
      =============================================== */
     $(".cover_slider").owlCarousel({
-        loop:true,
-        autoplay:true,
+        // loop:true,
+        // autoplay:true,
         smartSpeed:1000,
         autoplayHoverPause:false,
         dots:true,
